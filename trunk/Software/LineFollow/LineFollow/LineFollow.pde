@@ -1,8 +1,10 @@
 /*
-  Blink
-  Turns on an LED on for one second, then off for one second, repeatedly.
- 
-  This example code is in the public domain.
+  Line Following Demonstration Software
+  Bot Thoughts
+
+  AFRON "10 Dollar Robotic Challenge" 
+
+  This is the code used in the demonstration video  
  */
  
 #include <Servo.h>
@@ -57,9 +59,10 @@ void loop() {
   steer.write(s);
   delay(20);
 
+  /*
   Serial.print(lsense);
   Serial.print(" ");
   Serial.print(rsense);
   Serial.println();
-  
+  */
 }
