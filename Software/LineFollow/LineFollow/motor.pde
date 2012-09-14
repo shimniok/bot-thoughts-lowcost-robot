@@ -1,3 +1,13 @@
+/*
+  Motor driver software
+  Bot Thoughts
+
+  AFRON "10 Dollar Robotic Challenge" 
+
+  This is the code used in the demonstration video  
+ */
+ 
+
 /* DO NOT EDIT - VERY IMPORTANT
  *
  * If you goof these definitions up you will fry your motor drivers 
