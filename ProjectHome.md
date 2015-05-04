@@ -1,0 +1,1 @@
+A very low cost, traditional robot design entered into the AFRON Robotic Design Challenge
